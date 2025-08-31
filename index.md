@@ -14,7 +14,7 @@ con un gran entusiasmo. Para comenzar, una breve historia.
 
 En _Fooled by Randomness_, Nassim Taleb cuenta la historia de Nero y John, dos
 traders profesionales en Manhattan con filosofías opuestas. John es el tipo de
-trader con el que estamos generalmente mas familiarizados. Con un estilo de vida
+trader con el que estamos generalmente más familiarizados. Con un estilo de vida
 extravagante y lleno de lujo, John irradia confianza y alto estatus social. Por
 otra parte, Nero es un tipo más cauto. Para él, el estatus social es de lo menos
 importante en la vida, y el lujo innecesario le representa más un estorbo que un
