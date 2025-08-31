@@ -7,7 +7,7 @@ interesantes y retadoras como lo son el jiu-jitsu brasileño y la conversación
 con personas excepcionales. Y mientras regreso a mi departamento con este
 optimismo desbordado, me viene a la mente un problema que me ha
 acechado desde hace tiempo y no he logrado resolver. De dónde viene
-el entusiasmo? Será cualidad estática con la que uno nace? Dependerá en su
+el entusiasmo? Será una cualidad estática con la que uno nace? Dependerá en su
 totalidad de circunstancias fuera de nuestro control? O es algo que podemos
 generar por cuenta propia? Y qué mejor manera de enfrentar un gran problema que
 con un gran entusiasmo. Para comenzar, una breve historia.
