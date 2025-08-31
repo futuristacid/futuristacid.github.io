@@ -35,7 +35,7 @@ manteniendo su estilo de vida por más tiempo.
 El objeto principal de Taleb en esta historia es el riesgo. Pero de lo que yo
 quiero hablar ahora es de cómo estas diferencias de personalidad influyen en el
 estado de ánimo de los personajes. Nero y John resultan ser vecinos, y a pesar
-de que ambos tienen prácticamente sus vidas resuelta, la ostentosidad y el éxito
+de que ambos tienen prácticamente sus vidas resueltas, la ostentosidad y el éxito
 tan evidente de John, junto con sus carros de lujo y su ropa de diseñador, le
 resultan molestos a Nero. Incluso la esposa de Nero se siente inferior e
 intimidada por la actitud soberbia y los constantes viajes a lugares exóticos
@@ -83,11 +83,11 @@ dolor y el sufrimiento, crean callosidades mentales, justo como la fricción
 física puede crear callosidades en las manos y en los pies. Y que es a través de
 la exposición constante a la dificultad que nos hacemos más fuertes y resistentes
 a la frustración y las adversidades. El mismo Taleb, en _Antifragile_, dice que
-_comfort is a road to waste_, y que _difficulty wakes up the genius_. Es en este
+_comfort is a road to waste_, y que _difficulty is what wakes up the genius_. Es en este
 mismo libro donde Taleb sugiere, sin decirlo directamente, que Nero y su esposa,
 en lugar de huir de la situación, deberían enfrentarla con agresividad. Que en
 lugar de sentirse humillados y sobajados por las actitudes altaneras de sus
-vecinos, deberían ser ellos quienes desprecien activamente el estilo de vida de
+vecinos, deberían ser ellos quienes desprecien actívamente el estilo de vida de
 los mismos. _Missing a train is only painful if you run after it_. Es decir, que
 hay aprender a tomar la última decisión, y despreciar el estatus social y otros
 placeres, pues es más difícil perder en un juego que uno mismo se ha inventado.
